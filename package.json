@@ -1,6 +1,6 @@
 {
   "name": "element-remove-polyfill",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Element.remove polyfill for ie11 and lower version ie browser",
   "main": "index.js",
   "scripts": {
