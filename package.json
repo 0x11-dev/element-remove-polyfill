@@ -1,0 +1,11 @@
+{
+  "name": "element-remove-polyfill",
+  "version": "1.0.0",
+  "description": "Element.remove polyfill for ie11 and lower version ie browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
